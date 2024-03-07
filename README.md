@@ -18,7 +18,7 @@ Create a virtual environment
 python -m venv venv
 ```
 
-New venv created
+Virtual environment created
 ```
 venv\Scripts\activate
 ```
