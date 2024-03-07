@@ -11,11 +11,20 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 ```
 cd .\project_a\
-# create a virtual environment
+```
+
+Create a virtual environment
+```
 python -m venv venv
--- new venv created --
+```
+
+New venv created
+```
 venv\Scripts\activate
--- entered the venv environment. deactivate to deactivate --
--- install-package inside the venv environment --
+```
+Entered the virtual environment. deactivate to deactivate
+
+Install-package inside the virtual environment
+```
 pip install numpy==1.25
 ```
