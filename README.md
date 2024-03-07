@@ -1,3 +1,14 @@
 # Real Estate Price Prediction
 
-Dataset: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
+## Table of Contents 
+* [Data Source](data-source)
+* [Requirements](requirements)
+
+### Data Source
+https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
+
+### Requirements
+
+```
+
+```
