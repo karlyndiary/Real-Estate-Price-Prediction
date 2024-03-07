@@ -28,3 +28,6 @@ Install-package inside the virtual environment
 ```
 pip install numpy==1.25
 ```
+```
+pip freeze > requirements.txt
+```
